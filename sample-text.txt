@@ -1,0 +1,83 @@
+﻿P15
+タイトル	：メニュー
+Endpoint Name	：menu
+Endpoint Type	：Custom 8192
+
+タイトル	：写真ギャラリー
+Endpoint Name	：photo
+Endpoint Type	：Custom 8192
+
+タイトル	：口コミ・評価
+Endpoint Name	：review
+Endpoint Type	：Custom 8192
+
+タイトル	：地図・クーポン
+Endpoint Name	：map
+Endpoint Type	：Custom 8192
+
+
+P22
+繰り返し		：有効
+グループ名		：menu-group
+
+タイプ		：テキスト
+名前		：menu
+ラベル		：メニュー名
+
+タイプ		：テキスト
+名前		：price
+ラベル		：価格
+
+タイプ		：テキスト
+名前		：menu_comment
+ラベル		：一口コメント
+
+
+P23
+繰り返し	：有効
+グループ名	：gallery
+
+タイプ		：画像
+名前		：menu_images
+ラベル		：メニュー画像
+プレビューサイズ：thumbnail
+
+繰り返し	：有効
+グループ名	：reviews
+
+タイプ		：テキストエリア
+名前		：review
+ラベル		：レビュー
+行数		：5
+
+
+P24
+繰り返し	：無効
+タイプ		：画像
+名前		：map
+ラベル		：アクセスマップ
+プレビューサイズ：medium
+
+繰り返し	：無効
+タイプ		：画像
+名前		：coupon
+ラベル		：クーポン
+プレビューサイズ：full
+
+
+P31
+タイトル	：○ウンテン
+パーマリンク	：xountain
+アイキャッチ画像：xountain-exterior.jpg
+
+
+P32
+
+
+P33
+
+
+P34
+
+
+P35
