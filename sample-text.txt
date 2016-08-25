@@ -1,4 +1,28 @@
-﻿P15
+﻿P7
+Rewrite Endpoint Master
+https://ja.wordpress.org/plugins/rewrite-endpoint-master/
+リライトエンドポイント管理
+
+Smart Custom Fields
+https://ja.wordpress.org/plugins/smart-custom-fields/
+編集画面カスタマイズ
+
+ショップ投稿タイプ登録プラグイン
+https://github.com/jim912/endpoint-handson-post-type-plugin/
+ハンズオン用お店投稿タイプ登録
+
+
+P13
+プラグイン、サンプル店舗設定データ
+https://github.com/jim912/endpoint-handson-input-sample
+プラグインや表示テスト向けサンプル店舗の設定データ
+
+サンプル店舗用画像
+http://endpoint.test.warna.info/wp-content/uploads/2016/08/xountain.zip
+サンプル店舗画像
+
+
+P16
 タイトル	：メニュー
 Endpoint Name	：menu
 Endpoint Type	：Custom 8192
@@ -16,7 +40,7 @@ Endpoint Name	：map
 Endpoint Type	：Custom 8192
 
 
-P22
+P23
 繰り返し	：有効
 グループ名	：menu-group
 
@@ -33,7 +57,7 @@ P22
 ラベル		：一口コメント
 
 
-P23
+P24
 繰り返し	：有効
 グループ名	：gallery
 
@@ -51,7 +75,7 @@ P23
 行数		：5
 
 
-P24
+P25
 繰り返し	：無効
 タイプ		：画像
 名前		：map
@@ -65,13 +89,13 @@ P24
 プレビューサイズ：full
 
 
-P31
+P32
 タイトル	：○ウンテン
 パーマリンク	：xountain
 アイキャッチ画像：xountain-exterior.jpg
 
 
-P32
+P33
 メニュー名	：甘口抹茶小倉スパ
 価格		：800
 一口コメント	：小倉単体では、それなりに美味。苦めの抹茶パスタとホイップクリーム、そしてコテコテの油がユーのストマックを確実に地獄に誘う。
@@ -85,7 +109,7 @@ P32
 一口コメント	：ホイップクリームのボリューム感とはうらはらに、甘口スパの中では谷川岳クラス。ただし、山をなめてはいけない。油断は禁物である。
 
 
-P33
+P34
 メニュー画像	：menu_image_01.jpg
 
 メニュー画像	：menu_image_02.jpg
@@ -93,7 +117,7 @@ P33
 メニュー画像	：menu_image_03.jpg
 
 
-P34
+P35
 レビュー	：
 この量、そして小倉抹茶スパの不味さ。
 ええ、おいしいナスみそミートスパで小倉抹茶の不味さへの怒りをクールダウンしつつ、両方とも完食しました。
